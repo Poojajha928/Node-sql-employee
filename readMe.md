@@ -54,102 +54,105 @@ res : {
 URL: /fetchAllEmployee
 Method: GET
  ## Response
+```
 {
-"data": [
-{
-"id": 1,
-"firstName": "John",
-"lastName": "Doe",
-"email": "john.doe@example.com"
-},
-{
-"id": 2,
-"firstName": "Jane",
-"lastName": "Smith",
-"email": "jane.smith@example.com"
-},
-{
-"id": 3,
-"firstName": "John",
-"lastName": "Doe",
-"email": "john.doe@example.com"
-},
-{
-"id": 4,
-"firstName": "Jane",
-"lastName": "Smith",
-"email": "jane.smith@example.com"
-},
-{
-"id": 5,
-"firstName": "John",
-"lastName": "Doe",
-"email": "john.doe@example.com"
-},
-{
-"id": 6,
-"firstName": "Jane",
-"lastName": "Smith",
-"email": "jane.smith@example.com"
-},
-{
-"id": 7,
-"firstName": "John",
-"lastName": "Doe",
-"email": "john.doe@example.com"
-},
-{
-"id": 8,
-"firstName": "Jane",
-"lastName": "Smith",
-"email": "jane.smith@example.com"
-},
-{
-"id": 9,
-"firstName": "John",
-"lastName": "Doe",
-"email": "john.doe@example.com"
-},
-{
-"id": 10,
-"firstName": "Jane",
-"lastName": "Smith",
-"email": "jane.smith@example.com"
-},
-{
-"id": 11,
-"firstName": "John",
-"lastName": "Doe",
-"email": "john.doe@example.com"
-},
-{
-"id": 12,
-"firstName": "Jane",
-"lastName": "Smith",
-"email": "jane.smith@example.com"
-},
-{
-"id": 13,
-"firstName": "John",
-"lastName": "Doe",
-"email": "john.doe@example.com"
-},
-{
-"id": 14,
-"firstName": "Jane",
-"lastName": "Smith",
-"email": "jane.smith@example.com"
-},
-{
-"id": 15,
-"firstName": "John",
-"lastName": "Doe",
-"email": "john.doe@example.com"
-},
-{
-"id": 16,
-"firstName": "Jane",
-"lastName": "Smith",
-"email": "jane.smith@example.com"
+    "data": [
+        {
+            "id": 1,
+            "firstName": "John",
+            "lastName": "Doe",
+            "email": "john.doe@example.com"
+        },
+        {
+            "id": 2,
+            "firstName": "Jane",
+            "lastName": "Smith",
+            "email": "jane.smith@example.com"
+        },
+        {
+            "id": 3,
+            "firstName": "John",
+            "lastName": "Doe",
+            "email": "john.doe@example.com"
+        },
+        {
+            "id": 4,
+            "firstName": "Jane",
+            "lastName": "Smith",
+            "email": "jane.smith@example.com"
+        },
+        {
+            "id": 5,
+            "firstName": "John",
+            "lastName": "Doe",
+            "email": "john.doe@example.com"
+        },
+        {
+            "id": 6,
+            "firstName": "Jane",
+            "lastName": "Smith",
+            "email": "jane.smith@example.com"
+        },
+        {
+            "id": 7,
+            "firstName": "John",
+            "lastName": "Doe",
+            "email": "john.doe@example.com"
+        },
+        {
+            "id": 8,
+            "firstName": "Jane",
+            "lastName": "Smith",
+            "email": "jane.smith@example.com"
+        },
+        {
+            "id": 9,
+            "firstName": "John",
+            "lastName": "Doe",
+            "email": "john.doe@example.com"
+        },
+        {
+            "id": 10,
+            "firstName": "Jane",
+            "lastName": "Smith",
+            "email": "jane.smith@example.com"
+        },
+        {
+            "id": 11,
+            "firstName": "John",
+            "lastName": "Doe",
+            "email": "john.doe@example.com"
+        },
+        {
+            "id": 12,
+            "firstName": "Jane",
+            "lastName": "Smith",
+            "email": "jane.smith@example.com"
+        },
+        {
+            "id": 13,
+            "firstName": "John",
+            "lastName": "Doe",
+            "email": "john.doe@example.com"
+        },
+        {
+            "id": 14,
+            "firstName": "Jane",
+            "lastName": "Smith",
+            "email": "jane.smith@example.com"
+        },
+        {
+            "id": 15,
+            "firstName": "John",
+            "lastName": "Doe",
+            "email": "john.doe@example.com"
+        },
+        {
+            "id": 16,
+            "firstName": "Jane",
+            "lastName": "Smith",
+            "email": "jane.smith@example.com"
+        }
+    ]
 }
-]
+```
